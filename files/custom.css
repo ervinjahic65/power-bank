@@ -901,7 +901,7 @@ button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:no
     cursor:pointer
 }
 .video-placeholder-normal{
-    background-image:url(https://cdn-cookieyes.com/assets/images/cky-placeholder.svg);
+    background-image:url('./cky-placeholder.svg');
     background-size:80px;
     background-position:center;
     background-repeat:no-repeat;
