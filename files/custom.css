@@ -1013,3 +1013,9 @@ button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:no
         }
     }
 }
+
+html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body,html.intercom-modal-open,#intercom-container-body{overflow:hidden!important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body{position:static!important;transform:none!important;}html.intercom-mobile-messenger-active>body{height:0!important;margin:0!important;}iframe#intercom-frame{position:absolute!important;opacity:0!important;width:1px!important;height:1px!important;top:0!important;left:0!important;border:none!important;display:block!important;z-index:-1!important;;};;
+
+html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body,html.intercom-modal-open,#intercom-container-body{overflow:hidden!important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active>body{position:static!important;transform:none!important;}html.intercom-mobile-messenger-active>body{height:0!important;margin:0!important;}iframe#intercom-frame{position:absolute!important;opacity:0!important;width:1px!important;height:1px!important;top:0!important;left:0!important;border:none!important;display:block!important;z-index:-1!important;;};;
+
+
